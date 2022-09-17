@@ -46,7 +46,10 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
 
         // Making spinner & the adapter
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-                R.array.statuses, android.R.layout.simple_spinner_item);
+                R.array.statuses, R.layout.item);
+        spinnerText.setDropDownVerticalOffset(150);
+        spinnerText.setDropDownHorizontalOffset(0);
+        adapter.setDropDownViewResource(R.layout.dropitem);
         spinnerText.setAdapter(adapter);
         if (spinnerText != null){
             spinnerText.setOnItemSelectedListener(this);
@@ -56,7 +59,7 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
         tanggal.setOnFocusChangeListener(new View.OnFocusChangeListener() {
             @Override
             public void onFocusChange(View view, boolean b) {
-                showDataPicker();
+                if(b){showDataPicker();}
             }
         });
         tanggal.setOnClickListener(new View.OnClickListener() {
@@ -68,7 +71,7 @@ public class MainActivity extends AppCompatActivity  implements AdapterView.OnIt
         jam.setOnFocusChangeListener(new View.OnFocusChangeListener() {
             @Override
             public void onFocusChange(View view, boolean b) {
-                showTimePicker();
+                if(b){showTimePicker();}
             }
         });
         jam.setOnClickListener(new View.OnClickListener() {

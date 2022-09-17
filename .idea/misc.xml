@@ -3,13 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_btn.xml" value="0.195" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_button.xml" value="0.195" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_elements.xml" value="0.196" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_et.xml" value="0.195" />
+        <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_popup.xml" value="0.195" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_wallpaper.xml" value="0.196" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/dimension_element.xml" value="0.196" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/style.xml" value="0.195" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/Tugas/app/src/main/res/layout/dropitem.xml" value="0.18697916666666667" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/layout/item.xml" value="0.18697916666666667" />
       </map>
     </option>
