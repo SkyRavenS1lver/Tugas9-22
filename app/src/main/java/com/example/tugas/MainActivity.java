@@ -15,8 +15,6 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import java.text.SimpleDateFormat;
-
 public class MainActivity extends AppCompatActivity  implements AdapterView.OnItemSelectedListener {
     Spinner spinnerText;
     Button submit;
