@@ -5,5 +5,6 @@
     <dimen name="elemenY">15dp</dimen>
     <dimen name="titleBTM">50dp</dimen>
     <dimen name="titleTOP">75dp</dimen>
+    <dimen name="btnBTM">150dp</dimen>
     <dimen name="btnY">50dp</dimen>
 </resources>

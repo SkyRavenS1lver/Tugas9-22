@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -29,8 +28,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/elemenX"
             android:layout_marginRight="@dimen/elemenX"
-            android:background="@drawable/bg_et">
-
+            android:background="@drawable/bg_et"
+            android:orientation="vertical">
             <EditText
                 android:id="@+id/Date"
                 android:layout_width="match_parent"
@@ -115,7 +114,6 @@
 
     <Button
         android:id="@+id/buttonSubmit"
-
         android:background="@drawable/bg_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

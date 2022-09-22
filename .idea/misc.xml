@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProject/HasilCloning/Tugas/app/src/main/res/drawable/bg_btn.xml" value="0.196" />
+        <entry key="..\:/AndroidProject/HasilCloning/Tugas/app/src/main/res/drawable/ic_baseline_perm_contact_calendar_24.xml" value="0.2205" />
+        <entry key="..\:/AndroidProject/HasilCloning/Tugas/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/HasilCloning/Tugas/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/HasilCloning/Tugas/app/src/main/res/layout/fragment_daftar.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/HasilCloning/Tugas/app/src/main/res/layout/fragment_masuk.xml" value="0.18" />
+        <entry key="..\:/AndroidProject/HasilCloning/Tugas/app/src/main/res/menu/menu.xml" value="0.365625" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2515" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_btn.xml" value="0.195" />
         <entry key="..\:/AndroidProject/Tugas/app/src/main/res/drawable/bg_button.xml" value="0.195" />
